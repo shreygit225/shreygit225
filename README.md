@@ -22,7 +22,7 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 🌐 Connect with Me
 
 - [Portfolio Website](shreygandhi.my.canva.site)
-- [LinkedIn](www.linkedin.com/in/shreygandhi225/)
+- [LinkedIn](https://www.linkedin.com/in/shreygandhi225/)
 
 
 ## 📬 Let's Collaborate!

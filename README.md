@@ -5,9 +5,9 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 🚀 Skills and Technologies
 
 - Languages: HTML, CSS, JavaScript
-- Frontend Frameworks: React.js, Vue.js
+- Frontend Frameworks: React.js
 - Backend Frameworks: Node.js, Express.js
-- Database: MongoDB, MySQL
+- Database: MongoDB
 - Version Control: Git, GitHub
 
 🔧 Tools & Technologies
@@ -15,7 +15,7 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 - Code Editor: Visual Studio Code
 - Design: Figma
 
-🌱 Currently Learning: Web development frameworks 
+🌱 Currently Learning: MERN Stack Web Development 
 
 
 

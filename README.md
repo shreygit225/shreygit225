@@ -33,7 +33,6 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
 
 🌐 Connect with Me
 

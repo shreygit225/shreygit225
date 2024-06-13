@@ -15,25 +15,10 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 - Code Editor: Visual Studio Code
 - Design: Figma
 
-- 🌱 Currently Learning: MERN Stack Web Development 
+Languages:-
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,bootstrap,tailwind,ts,angular,react,nodejs,expressjs,nextjs,jquery,django,flask,php,laravel,postman,mongodb,mysql,postgres,sqllite,aws,docker,firebase,dart,flutter,kotlin,swift,vscode,wordpress,arduino,eclipse,figma,git,github,gitlab,notion,visualstudio,xd,anaconda,codepen,matlab,powershell,windows,linux,&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,java&perline=7)](https://skillicons.dev)
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,angular,react&perline=7)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,jquery,django,flask,php,laravel,postman&perline=7)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqllite&perline=7)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,firebase&perline=7)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift&perline=7)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,wordpress,arduino,eclipse,figma,git,github,gitlab,notion,visualstudio,xd,anaconda,codepen,matlab,powershell&perline=7)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=windows,linux&perline=7)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=discord,gmail,instagram,linkdin,stackoverflow,twitter&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,gmail,instagram,stackoverflow,twitter&perline=7)](https://skillicons.dev)
 
 
 

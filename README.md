@@ -5,8 +5,11 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,bootstrap,tailwind,ts,angular,react,nodejs,expressjs,nextjs,jquery,django,flask,php,laravel,postman,mongodb,mysql,postgres,aws,docker,firebase,dart,flutter,kotlin,swift,vscode,wordpress,arduino,eclipse,figma,git,github,gitlab,notion,visualstudio,xd,anaconda,codepen,matlab,powershell,windows,linux,&perline=7)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=discord,gmail,instagram,stackoverflow,twitter&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,bootstrap,tailwind,ts,angular,react,nodejs,expressjs,nextjs,jquery,django,flask,php,laravel,postman,mongodb,mysql,postgres,aws,docker,firebase,dart,flutter,kotlin,swift,vscode,wordpress,arduino,eclipse,figma,git,github,gitlab,notion,visualstudio,xd,anaconda,codepen,matlab,powershell,windows,linux,discord,gmail,instagram,stackoverflow,twitter&perline=7)](https://skillicons.dev)
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=&perline=7)](https://skillicons.dev)
 
 
 

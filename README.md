@@ -17,6 +17,8 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 
 🌱 Currently Learning: MERN Stack Web Development 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreygit225&hide_progress=true)
+
 
 
 🌐 Connect with Me

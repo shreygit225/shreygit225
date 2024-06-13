@@ -1,5 +1,8 @@
 Hi there! 👋 I'm Shrey Gandhi
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarepe&label=Profile%20views&color=0e75b6&style=flat" alt="adityarepe" /> </p>
+
+
 I'm a passionate web developer with a love for creating interactive and dynamic websites.
 
 🚀 Skills and Technologies

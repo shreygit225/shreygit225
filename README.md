@@ -20,6 +20,11 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 
 [![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
 
+<a href="https://github.com/shreygit225">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreygit225&theme=light" />
+</a>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreygit225&layout=compact)
 
 

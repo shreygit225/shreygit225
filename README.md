@@ -30,6 +30,7 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 <br/> <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
 
 

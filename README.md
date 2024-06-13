@@ -15,13 +15,8 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 - Code Editor: Visual Studio Code
 - Design: Figma
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
-
-
-  <p align="left">
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  </p>
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  
 
 
 🌱 Currently Learning: MERN Stack Web Development 

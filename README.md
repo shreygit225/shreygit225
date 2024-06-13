@@ -20,12 +20,8 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 
 [![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreygit225)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreygit225
+&layout=compact)
 
 
 

@@ -16,7 +16,8 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 - Design: Figma
 
 🌱 Currently Learning: MERN Stack Web Development 
-[![Shrey's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shreygit225&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/shreygit225/github-readme-stats#gh-light-mode-only)
+[![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
+
 
 
 

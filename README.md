@@ -21,7 +21,7 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,angular,react,nodejs,express,nextjs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,wordpress,andriodstudio,arduino,eclipse,figma,git,github,notion,rasberrypi,visualstudio,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,wordpress,arduino,eclipse,figma,git,github,rasberrypi,visualstudio,xd)](https://skillicons.dev)
 
   
 [![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)

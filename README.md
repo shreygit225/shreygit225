@@ -17,7 +17,7 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 
 🌱 Currently Learning: MERN Stack Web Development 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shregit225a&repo=github-readme-stats)](https://github.com/shreygit225/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreygit225a&repo=github-readme-stats)](https://github.com/shreygit225/github-readme-stats)
 
 [![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
 

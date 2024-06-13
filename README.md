@@ -15,13 +15,12 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 - Code Editor: Visual Studio Code
 - Design: Figma
 
+- 🌱 Currently Learning: MERN Stack Web Development 
+
+
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,angular,react,nodejs,express,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,java)](https://skillicons.dev)
   
-
-
-🌱 Currently Learning: MERN Stack Web Development 
-
-
 [![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
 
 

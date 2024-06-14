@@ -33,6 +33,10 @@ I'm a passionate web developer with a love for creating interactive and dynamic 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreygit225)](https://github.com/shreygit225/github-readme-stats)
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreygit225" alt="shreygit225" /></a> </p>
+
+
+
 
 🌐 Connect with Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreygit225&label=Profile%20views&color=0e75b6&style=flat" alt="adityarepe" /> </p>
